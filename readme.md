@@ -1,4 +1,4 @@
-# ColdFusion Package for Sublime Text 2 with CFWheels
+# CFWheels Package for Sublime Text 2
 
 CFWheels support for Sublime Text 2. Just add it to your packages folder.
 
