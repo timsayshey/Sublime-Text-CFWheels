@@ -1,7 +1,9 @@
 # CFWheels Package for Sublime Text 2
 
-CFWheels support for Sublime Text 2. Just add it to your packages folder.
+Requires [Atomi's Sublime Text Coldfusion Package](https://github.com/SublimeText/ColdFusion) to work.
 
-Also includes apiImport/import.cfm for updating the plugin.
+Just add it to your packages folder.
 
-Inspired by the Sublime Coldfusion Plugin at https://github.com/SublimeText/ColdFusion (Highly ecommend installing it alongside this plugin)
+Also includes apiImport/import.cfm for generating the latest definitions. 
+
+# Contributions encouraged ;)
