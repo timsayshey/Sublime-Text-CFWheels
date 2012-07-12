@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>buttonTo(${1:${2:text="$3"}${4:, confirm="$5"}${6:, image="$7"}${8:, disable="$9"}${10:, route="$11"}${12:, controller="$13"}${14:, action="$15"}${16:, key="$17"}${18:, params="$19"}${20:, anchor="$21"}${22:, onlyPath="$23"}${24:, host="$25"}${26:, protocol="$27"}${28:, port="$29"}})$0</string>
+	<key>name</key>
+	<string>buttonTo</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>buttonto</string>
+	<key>uuid</key>
+	<string>7F72EBA1-07F9-30E1-73A89C42B65D63C0</string>
+</dict>
+</plist>

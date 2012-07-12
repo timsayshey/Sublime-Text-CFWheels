@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>startFormTag(${1:${2:method="$3"}${4:, multipart="$5"}${6:, spamProtection="$7"}${8:, route="$9"}${10:, controller="$11"}${12:, action="$13"}${14:, key="$15"}${16:, params="$17"}${18:, anchor="$19"}${20:, onlyPath="$21"}${22:, host="$23"}${24:, protocol="$25"}${26:, port="$27"}})$0</string>
+	<key>name</key>
+	<string>startFormTag</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>startformtag</string>
+	<key>uuid</key>
+	<string>7F72EBD8-C45F-097A-43A8C571EADAD081</string>
+</dict>
+</plist>

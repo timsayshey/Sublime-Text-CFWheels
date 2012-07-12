@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>renameColumn(table="$1", columnName="$2", newColumnName="$3");$0</string>
+	<key>name</key>
+	<string>Rename Column</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>mrenamecol</string>
+	<key>uuid</key>
+	<string>BE8EDEB1-A3F0-4A05-9984-A95FC4073393</string>
+</dict>
+</plist>

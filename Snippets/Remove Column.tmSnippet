@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>removeColumn(table="$1"${2:${3:, columnName="$4"}${5:, referenceName="$5"}});$0</string>
+	<key>name</key>
+	<string>Remove Column</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>mremovecol</string>
+	<key>uuid</key>
+	<string>CB7B3D84-B88E-46A1-B0A1-DE1EECA22D3F</string>
+</dict>
+</plist>

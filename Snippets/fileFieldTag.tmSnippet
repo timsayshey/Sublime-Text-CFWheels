@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>fileFieldTag(${1:${2:name="$3"}${4:, label="$5"}${6:, labelPlacement="$7"}${8:, prepend="$9"}${10:, append="$11"}${12:, prependToLabel="$13"}${14:, appendToLabel="$15"}})$0</string>
+	<key>name</key>
+	<string>fileFieldTag</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>filefieldtag</string>
+	<key>uuid</key>
+	<string>7F72EBD3-93D3-12B1-531698064F0701C0</string>
+</dict>
+</plist>

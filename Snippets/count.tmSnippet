@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>count(${1:${2:where="$3"}${4:, include="$5"}})$0</string>
+	<key>name</key>
+	<string>count</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>count</string>
+	<key>uuid</key>
+	<string>7F72EABA-A0B7-CBAF-E9D6204FE4D2FAFB</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>maximum(${1:${2:property="$3"}${4:, where="$5"}${6:, include="$7"}})$0</string>
+	<key>name</key>
+	<string>maximum</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>maximum</string>
+	<key>uuid</key>
+	<string>7F72EA6F-C34D-9CC8-8030CC64339948BC</string>
+</dict>
+</plist>
