@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>autoLink(${1:${2:text="$3"}${4:, link="$5"}})$0</string>
+	<key>name</key>
+	<string>autoLink</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>autolink</string>
+	<key>uuid</key>
+	<string>7F72EC11-9277-3FA8-4D425D938B31D3DB</string>
+</dict>
+</plist>

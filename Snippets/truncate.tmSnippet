@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>truncate(${1:${2:text="$3"}${4:, length="$5"}${6:, truncateString="$7"}})$0</string>
+	<key>name</key>
+	<string>truncate</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>truncate</string>
+	<key>uuid</key>
+	<string>7F72EB96-EAC8-C621-A6CEEDC5E4B699B2</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>caches(${1:${2:actions="$3"}${4:, time="$5"}})$0</string>
+	<key>name</key>
+	<string>caches</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>caches</string>
+	<key>uuid</key>
+	<string>7F72ECAD-0BBF-B196-AE1F30FBE9393DE2</string>
+</dict>
+</plist>

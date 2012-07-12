@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>t.float(columnNames="$1"${2:${3:, default="$4"}${5:, null="$6"}});$0</string>
+	<key>name</key>
+	<string>float</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>mfloat</string>
+	<key>uuid</key>
+	<string>A7071999-F045-493B-BB49-5A19C08BF0AE</string>
+</dict>
+</plist>

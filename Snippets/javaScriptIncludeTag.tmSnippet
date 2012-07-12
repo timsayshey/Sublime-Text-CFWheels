@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>javaScriptIncludeTag(${1:${2:sources="$3"}${4:, type="$5"}})$0</string>
+	<key>name</key>
+	<string>javaScriptIncludeTag</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>jit</string>
+	<key>uuid</key>
+	<string>7F72ECC0-976F-C859-E28B3D386CB313E9</string>
+</dict>
+</plist>

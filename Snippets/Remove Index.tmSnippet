@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>removeIndex(table="$1", indexName="$2");$0</string>
+	<key>name</key>
+	<string>Remove Index</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>mremindex</string>
+	<key>uuid</key>
+	<string>10CC3655-06D1-420D-93D6-8F2EB31867CA</string>
+</dict>
+</plist>

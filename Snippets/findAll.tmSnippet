@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>findAll(${1:${2:where="$3"}${4:, order="$5"}${6:, select="$7"}${8:, distinct="$9"}${10:, include="$11"}${12:, maxRows="$13"}${14:, page="$15"}${16:, perPage="$17"}${18:, count="$19"}${20:, handle="$21"}${22:, cache="$23"}${24:, reload="$25"}${26:, parameterize="$27"}${28:, returnAs="$29"}${30:, returnIncluded="$31"}})$0</string>
+	<key>name</key>
+	<string>findAll</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>findall</string>
+	<key>uuid</key>
+	<string>7F72EA39-EE12-483B-D7032AC21B567D91</string>
+</dict>
+</plist>

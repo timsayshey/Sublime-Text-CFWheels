@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>errorMessageOn(${1:${2:objectName="$3"}${4:, property="$5"}${6:, prependText="$7"}${8:, appendText="$9"}${10:, wrapperElement="$11"}${12:, class="$13"}})$0</string>
+	<key>name</key>
+	<string>errorMessageOn</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>errormessageon</string>
+	<key>uuid</key>
+	<string>7F72EBD0-FC76-C0C3-9C09B9CE37A117A2</string>
+</dict>
+</plist>

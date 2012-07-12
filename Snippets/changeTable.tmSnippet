@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>t = changeTable('$1');
+	$2
+t.change();$0</string>
+	<key>name</key>
+	<string>Change Table</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>mchangetab</string>
+	<key>uuid</key>
+	<string>E0AEDD07-0F6D-4BED-8909-C0372630D4B3</string>
+</dict>
+</plist>
