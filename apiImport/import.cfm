@@ -29,8 +29,9 @@
 						  StructKeyExists(objRSS.functions.function[i].arguments,"argument") AND
 				  		  StructKeyExists(objRSS.functions.function[i].arguments.argument[j],"XmlAttributes") AND 
 				  		  StructKeyExists(objRSS.functions.function[i].arguments.argument[j].XmlAttributes,"name")>
-						  ${#count#:#objRSS.functions.function[i].arguments.argument[j].XmlAttributes.name#(#objRSS.functions.function[i].arguments.argument[j].type.xmltext#)}<cfif j neq Item_Length2>,</cfif>
+						  ${#count#:#objRSS.functions.function[i].arguments.argument[j].XmlAttributes.name#='$#count+1#'}<cfif j neq Item_Length2>,</cfif>
 						  					  
+						  <cfset count++>
 						  <cfset count++>
 					</cfif>				
 				</cfloop>			
