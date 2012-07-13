@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>linkTo(${1:${2:text="$3"}${4:, confirm="$5"}${6:, route="$7"}${8:, controller="$9"}${10:, action="$11"}${12:, key="$13"}${14:, params="$15"}${16:, anchor="$17"}${18:, onlyPath="$19"}${20:, host="$21"}${22:, protocol="$23"}${24:, port="$25"}})$0</string>
+	<string>linkTo(${1:${2:text='$3'}${4:, controller='$5'}${6:, action='$7'}${8:, route='$9'}${10:${11:, key='$12'}${13:, params='$14'}${4:, confirm='$15'}${16:, anchor='$17'}${18:, onlyPath='$19'}${20:, host='$21'}${22:, protocol='$23'}${24:, port='$25'}}})$0</string>
 	<key>name</key>
 	<string>linkTo</string>
 	<key>scope</key>
