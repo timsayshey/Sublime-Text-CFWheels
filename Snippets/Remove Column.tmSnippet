@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Remove Column</string>
 	<key>scope</key>
-	<string>text.html.cfm</string>
+	<string>source.cfscript - source.sql - text.html.cfm - string,source.cfscript.embedded.cfml - string, source.sql</string>
 	<key>tabTrigger</key>
 	<string>mremovecol</string>
 	<key>uuid</key>

@@ -9,7 +9,7 @@ t.change();$0</string>
 	<key>name</key>
 	<string>Change Table</string>
 	<key>scope</key>
-	<string>text.html.cfm</string>
+	<string>source.cfscript - source.sql - text.html.cfm - string,source.cfscript.embedded.cfml - string, source.sql</string>
 	<key>tabTrigger</key>
 	<string>mchangetab</string>
 	<key>uuid</key>
